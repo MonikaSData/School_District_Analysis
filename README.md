@@ -10,7 +10,8 @@ Analysis using Python
 A  High-level snapshot of the district's key metrics, presented in a table format 
 2. An overview of the key metrics for each school, presented in a table format
 
-The analysis report will include tables presenting each of the following metrics:
+**The analysis report will include tables presenting each of the following metrics:**
+
 - Top 5 and bottom 5 performing schools, based on the overall passing rate
 - The average math score received by students in each grade level at each school
 - The average reading score received by students in each grade level at each school
