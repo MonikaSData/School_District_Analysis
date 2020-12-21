@@ -76,20 +76,25 @@ Analysis using Python
 ## Results
 - *How is the district summary affected?*
 
-   Original District Summary (before replacing 9th grade math and reading scores for Thomas High School with NaN values)
+   ***Original District Summary (before replacing 9th grade math and reading scores for Thomas High School with NaN values)***
+   
    ![Original_district_summary](Resources/Original_district_summary.png)
    
    
-   Updated District Summary (after replacing 9th grade math and reading scores for Thomas High School with NaN values)
+   ***Updated District Summary (after replacing 9th grade math and reading scores for Thomas High School with NaN values)***
+   
    ![district_summary_df](Resources/district_summary_df.png)
 
 
 - *How is the school summary affected?*
    
-   Original School Summary (before replacing 9th grade math and reading scores for Thomas High School with NaN values)
+   ***Original School Summary (before replacing 9th grade math and reading scores for Thomas High School with NaN values)***
+   
    ![THS_Original_school_summary](Resources/THS_Original_school_summary.png)
    
-   Updated School Summary (after replacing 9th grade math and reading scores for Thomas High School with NaN values)
+   
+   ***Updated School Summary (after replacing 9th grade math and reading scores for Thomas High School with NaN values)***
+   
    ![High_performing_schools](Resources/High_performing_schools.png)
    
 - *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
