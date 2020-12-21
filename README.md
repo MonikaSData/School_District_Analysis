@@ -7,8 +7,8 @@ Analysis using Python
 **The Analysis should include the following information:** 
 
 1. Perform data cleaning to exclude reading and math grades for Thomas High School ninth graders due to possible academic dishonesty (records appear to have been altered)
-A  High-level snapshot of the district's key metrics, presented in a table format 
-2. An overview of the key metrics for each school, presented in a table format
+2. A High-level snapshot of the district's key metrics, presented in a table format 
+3. An overview of the key metrics for each school, presented in a table format
 
 **The analysis report will include tables presenting each of the following metrics:**
 
