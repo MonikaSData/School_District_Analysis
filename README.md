@@ -81,9 +81,16 @@ Analysis using Python
 - **How does replacing the ninth-grade scores affect the following:**
 
 - *Math and reading scores by grade*
+   - Only grades for 9th grade for Thomas High School are affected and not available in updated dataset. Other math and reading scores are not affected for Thomas High School or any other school.
+   
 - *Scores by school spending*
+   - No changes have been detected to any metrics under $630-644 school spending category (Thomas High School falls in this category).
+   
 - *Scores by school size*
+   - No changes have been detected to any metrics under Medium school size category (Thomas High School falls in this category).
+   
 - *Scores by school type*
+   - No changes have been detected to any metrics under charter school category (Thomas High School falls in this category).
     
 ### School District Data Analysis Summary:
 The four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
