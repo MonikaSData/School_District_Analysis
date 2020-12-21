@@ -26,15 +26,35 @@ A  High-level snapshot of the district's key metrics, presented in a table forma
 
 ## Summary
 - **Note: Updated data analysis was performed on cleaned data set (reading and math grades for Thomas High School ninth graders were replaced with NaNs to account for data issues)**
+![Scores_replaced_wNaN](Resources/Scores_replaced_wNaN.png)
+
 - *The district summary DataFrame*
+![district_summary_df](Resources/district_summary_df.png)
+
 - *The school summary DataFrame*
+![School_summary_df](Resources/School_summary_df.png)
+
 - *The top 5 performing schools, based on the overall passing rate*
+![High_performing_schools](Resources/High_performing_schools.png)
+
 - *The bottom 5 performing schools, based on the overall passing rate* 
+![Low_performing_schools](Resources/Low_performing_schools.png)
+
 - *The average math score for each grade level from each school*
+![Math_average_scores_per_grade_by_school](Resources/Math_average_scores_per_grade_by_school.png)
+
 - *The average reading score for each grade level from each school*
+![Reading_average_scores_per_grade_by_school](Resources/Reading_average_scores_per_grade_by_school.png)
+
 - *The scores by school spending per student*
+![Scores_by_school_spending](Resources/Scores_by_school_spending.png)
+
 - *The scores by school size*
+![Scores_by_school_size](Resources/Scores_by_school_size.png)
+
 - *The scores by school type*
+![Scores_by_school_type](Resources/Scores_by_school_type.png)
+
 
 ## Results
 - *How is the district summary affected?*
