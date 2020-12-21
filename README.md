@@ -76,8 +76,11 @@ Analysis using Python
 ## Results
 - *How is the district summary affected?*
 - *How is the school summary affected?*
-- *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
    - 
+- *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
+   - The overall school performance % decreases by less than 0.5% (from 90.95% to 90.63%) 
+   - Even though the overall performance % decreases by less than 0.5%, it does not have any affect on the school's position in the top 5 high performing schools
+   - Thomas High School remains the 2nd top performing school
 
 
 - **How does replacing the ninth-grade scores affect the following:**
