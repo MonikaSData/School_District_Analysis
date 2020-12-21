@@ -25,7 +25,7 @@ A  High-level snapshot of the district's key metrics, presented in a table forma
 - Software: Python 3.7.9 64-bit (conda); jupyter-notebook : 6.1.4
 
 ## Summary
-- #### *Note: Updated data analysis was performed on cleaned data set (reading and math grades for Thomas High School ninth graders were replaced with NaNs to account for data issues)*
+- #### *Note: Updated data analysis was performed on cleaned data set (reading and math grades for Thomas High School ninth graders were replaced with NaNs to account for data issues and excluded from aggregate calculations)*
 
 - Code Example:
 
