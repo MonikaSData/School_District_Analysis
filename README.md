@@ -26,6 +26,13 @@ A  High-level snapshot of the district's key metrics, presented in a table forma
 
 ## Summary
 - #### *Note: Updated data analysis was performed on cleaned data set (reading and math grades for Thomas High School ninth graders were replaced with NaNs to account for data issues)*
+
+- Code Example:
+
+        # Step 2. Use the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replace them with NaN.
+        student_data_df.loc[(student_data_df["grade"]=="9th")&(student_data_df["school_name"]=="Thomas High School"),"reading_score"]=np.nan
+        student_data_df
+        
 ![Scores_replaced_wNaN](Resources/Scores_replaced_wNaN.png)
 
 - **The district summary DataFrame**
