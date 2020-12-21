@@ -76,6 +76,8 @@ Analysis using Python
 ## Results
 - *How is the district summary affected?*
 
+   - No changes have been detected to any metrics under district summary.
+
    ***Original District Summary (before replacing 9th grade math and reading scores for Thomas High School with NaN values)***
    
    ![Original_district_summary](Resources/Original_district_summary.png)
